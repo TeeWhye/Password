@@ -2,6 +2,9 @@
 
 A modern and user-friendly password generator built using **HTML**, **CSS**, and **JavaScript**. This tool allows users to generate secure, random passwords based on customizable criteria.
 
+## Live demo link 
+
+ https://teewhye.github.io/Password/
 
 ## 🚀 Features
 
